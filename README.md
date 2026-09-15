@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ritesh0912/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Ritesh0912/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/Ritesh0912/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Ritesh0912/Leetcode/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/Ritesh0912/Leetcode/tree/master/1068-product-sales-analysis-i) |
