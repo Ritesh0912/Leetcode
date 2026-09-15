@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ritesh0912/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0619-biggest-single-number](https://github.com/Ritesh0912/Leetcode/tree/master/0619-biggest-single-number) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Ritesh0912/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Ritesh0912/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1890-the-latest-login-in-2020](https://github.com/Ritesh0912/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
