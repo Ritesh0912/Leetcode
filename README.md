@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Ritesh0912/Leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ritesh0912/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1890-the-latest-login-in-2020](https://github.com/Ritesh0912/Leetcode/tree/master/1890-the-latest-login-in-2020) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ritesh0912/Leetcode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ritesh0912/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
