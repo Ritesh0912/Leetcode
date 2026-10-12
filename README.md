@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritesh0912/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ritesh0912/Leetcode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritesh0912/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ritesh0912/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
